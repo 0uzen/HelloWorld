@@ -1,5 +1,0 @@
-//Hello world
-void main() {
-	print "Hello World";
-}
-Change made after creation
